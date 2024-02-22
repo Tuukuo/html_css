@@ -1,0 +1,12 @@
+#container{
+    border: dotted 1px;
+    border-color: orangered;
+    padding: 20px;
+    margin: 0 auto;
+
+}
+h1{
+    border:solid 1px black;
+   padding: 20px;
+    margin: 5%;
+}
